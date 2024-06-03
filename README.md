@@ -66,8 +66,7 @@
 
 ###
 <!-- stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=09anushkam&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
-
+![](https://github-readme-streak-stats.herokuapp.com/?user=09anushkam&theme=dark&hide_border=false)<br/>
 ###
 <!-- lang stats -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=09anushkam&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />  
