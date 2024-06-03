@@ -1,11 +1,6 @@
 <h1 align="left">Hi 👋, I'm Anushka Murade</h1>
 <h3 align="left">A passionate frontend developer from India</h3>
 
-###
-<!-- profile pic -->
-<img align="right" height="300" src="https://media.licdn.com/dms/image/D5603AQFpR8raU9pdhA/profile-displayphoto-shrink_800_800/0/1707555052460?e=1723075200&v=beta&t=MhSIPD3rcrXylx_qPgwZS-1UXjfApr_LiU5GM9RXFF4"  />
-
-
 - 🌱 I’m currently learning **ReactJS, NodeJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/09anushkam](https://github.com/09anushkam)
