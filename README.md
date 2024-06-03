@@ -65,6 +65,7 @@
 <!-- stats -->
 <h2> Streaks and Stats :  </h2> 
 <img src="https://github-readme-stats.vercel.app/api?username=pruthvirajp04&theme=merko&show_icons=true" alt="Pruthviraj Patil Stats"> 
+
 ###
 <!-- lang stats -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=09anushkam&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />  
