@@ -13,7 +13,8 @@
 - 📫 How to reach me **<muradeanushka04@gmail.com>**
 
 <!-- projects -->
-<h2> Streaks and Stats :  </h2>  <br/>
+<h2> Streaks and Stats :  </h2>  
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=09anushkam&repo=Frontend-Projects)](https://github.com/09anushkam/Frontend-Projects)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=09anushkam&repo=09anushkam.github.io)](https://github.com/09anushkam/09anushkam.github.io)
 
