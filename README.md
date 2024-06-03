@@ -66,7 +66,7 @@
 
 ###
 <!-- stats -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=09anushkam&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=09anushkam&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ###
 <!-- lang stats -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=09anushkam&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />  
