@@ -14,7 +14,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=09anushkam&repo=09anushkam.github.io)](https://github.com/09anushkam/09anushkam.github.io)
 
 <!-- languages -->
-<h3 align="left">Languages and Tools :   </h3>
+<h2 align="left">Languages and Tools :   </h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
   <img width="12" />
@@ -37,7 +37,7 @@
 
 ###
 <!-- social media -->
-<h3 align="left">Connect with me :   </h3>
+<h2 align="left">Connect with me :   </h2>
 <div align="left">
   <a href="https://www.instagram.com/_.anushka_murade._/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
