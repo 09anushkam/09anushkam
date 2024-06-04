@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Anushka Murade</h1>
+<h2 align="center">Hey there, I'm Anushka Murade</h2>
 <h3 align="left">A passionate frontend developer from India</h3>
 
 - 🌱 I’m currently learning **ReactJS, NodeJS**
