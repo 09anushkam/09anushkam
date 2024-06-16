@@ -61,7 +61,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=09anushkam&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />  
 
 <!-- Snake -->  
-<p align="center">
+<!-- <p align="center">
  <img width="1000" src="github-snake.svg" alt="snake"/>
-</p>
-
+</p> -->
