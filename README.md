@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Anushka Murade  </h1>
-<h2 align="center">A passionate frontend developer from India </h2>
+<h2 align="center">A passionate Developer from India </h2>
 
 - 🌱 I’m currently learning **MERN STACK**
 
