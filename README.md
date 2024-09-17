@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Anushka Murade  </h1>
 <h2 align="center">A passionate Developer from India </h2>
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently practicing **DSA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/09anushkam](https://github.com/09anushkam)
 
